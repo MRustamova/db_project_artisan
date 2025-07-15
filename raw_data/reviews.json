@@ -1,0 +1,23 @@
+[
+  {
+    "product_id": "P001",
+    "user_id": "U001",
+    "rating": 5,
+    "title": "Amazing quality!",
+    "content": "Detailed review text...",
+    "images": [
+      "url1.jpg",
+      "url2.jpg"
+    ],
+    "helpful_votes": 15,
+    "verified_purchase": true,
+    "created_at": "2025-07-15T15:29:36.489586",
+    "comments": [
+      {
+        "user_id": "U002",
+        "content": "I agree!",
+        "created_at": "2025-07-15T15:29:36.489598"
+      }
+    ]
+  }
+]

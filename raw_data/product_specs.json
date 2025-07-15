@@ -1,0 +1,20 @@
+[
+  {
+    "product_id": "P001",
+    "category": "Home & Kitchen",
+    "specs": {
+      "material": "Acacia wood",
+      "dimensions": {
+        "length": 12,
+        "width": 12,
+        "height": 3,
+        "unit": "inches"
+      },
+      "care_instructions": [
+        "Hand wash only",
+        "Oil regularly"
+      ],
+      "capacity": "2 liters"
+    }
+  }
+]

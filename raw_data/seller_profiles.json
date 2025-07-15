@@ -1,0 +1,19 @@
+[
+  {
+    "seller_id": "S001",
+    "bio": "Passionate artisan creating handmade home goods.",
+    "portfolio": [
+      {
+        "title": "Handmade bowl",
+        "image": "bowl.jpg"
+      },
+      {
+        "title": "Wooden spoon set",
+        "image": "spoon.jpg"
+      }
+    ],
+    "social_links": {
+      "instagram": "@artisan_seller"
+    }
+  }
+]

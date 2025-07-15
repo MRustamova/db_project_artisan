@@ -1,0 +1,17 @@
+[
+  {
+    "user_id": "U001",
+    "preferred_categories": [
+      "Home & Kitchen",
+      "Jewelry"
+    ],
+    "recently_viewed": [
+      "P001",
+      "P002"
+    ],
+    "purchase_history": [
+      "P003",
+      "P004"
+    ]
+  }
+]
